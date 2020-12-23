@@ -28,6 +28,10 @@ dependencies:
   loading_overlay: ^0.2.1
   qr_code_scanner: ^0.0.13
   qr_flutter: ^3.1.0
+  camera: ^0.5.7+4
+  path_provider: ^1.6.5
+  path: ^1.6.4
+  shared_preferences: ^0.5.6+3
 
 
   # The following adds the Cupertino Icons font to your application.
